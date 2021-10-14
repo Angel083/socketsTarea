@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vqVSouuPaGrvtmN33Oth+ydRgInQ9w7l02aSY5DlNa5F1r2ntzdXSReSOVI7bP1iKfwN556dQOLm0z11FB+rog==",
+  "success": true,
+  "projectFilePath": "D:\\Ing-Sistemas-Computacionales\\Semestre_7\\ProgramacionHibrida\\Unidad2\\Tarea\\socketsTarea\\socketsTarea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Angel\\.nuget\\packages\\websocketsharp.core\\1.0.0\\websocketsharp.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
